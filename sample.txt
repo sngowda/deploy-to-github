@@ -1,0 +1,9 @@
+IMP: While birthing puppet server should be in down(puppet master and agent should be stop service)
+
+
+-open superputty and puppet console(fab-apdr01-puppet-h3)
+-cd /etc/puppet/environment
+-cd rhine
+-cd manifests
+-vim site.pp
+-
